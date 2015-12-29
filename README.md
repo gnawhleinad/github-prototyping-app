@@ -25,7 +25,7 @@ The first prerequisite is to have Rails 4 installed.
 
 Rails can be installed using RubyGems, which requires ruby to be installed on your machine.
 
-With ruby installed (and ideally managed using [rbenv](https://github.com/rbenv/rbenv) you can then install Rails with RubyGems with the command:
+With ruby installed (and ideally managed using [rbenv](https://github.com/rbenv/rbenv)), you can then install Rails with RubyGems with the command:
 
 `gem install rails`
 
